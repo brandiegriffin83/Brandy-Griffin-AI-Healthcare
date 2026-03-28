@@ -1,14 +1,13 @@
 # Assignments
 
 ## Overview
-This folder has everything I did for my AI in Healthcare class.
+Everything I did for my AI in Healthcare class is in this folder.
 
 ## What I Did
-While completing these assignments, I learned about many different areas such as medical terminology, healthcare data, clinical decision support systems, diagnostic tools, prognostic models, population health, ethics, natural language processing, reinforcement learning, and human-centered AI design. Each assignment helped me see how AI connects to real-life healthcare situations.
+I learned a lot of new things while working on these assignments, like medical terminology, healthcare data, clinical decision support systems, diagnostic tools, prognostic models, population health, ethics, natural language processing, reinforcement learning, and designing AI that is centered on people. Every assignment helped me understand how AI works in real life healthcare situations.
 
 ## What I Learned
-These tasks helped me learn how AI can help doctors, make patient care better, and look at healthcare data. I also learned that AI isn't just about technology; it's also about ethics, accuracy, and making sure it is used correctly in healthcare.
+These tasks taught me how AI can help doctors, improve patient care, and look at health data. I also learned that AI isn't just about technology; it's also about being honest, making sure it's used correctly in healthcare, and being ethical.
 
 ## Files Included
-I finished all of the assignments for my AI in Healthcare course, from Assignment 1 to Assignment 10.
-
+I finished all ten of my AI in Healthcare course assignments, from Assignment 1 to Assignment 10.
